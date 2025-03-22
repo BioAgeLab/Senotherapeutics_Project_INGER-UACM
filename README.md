@@ -12,6 +12,6 @@ Identification of 714 compounds with senotherapeutic activity, of which 270 show
 
 Outstanding results:
 49 compounds already FDA-approved for other conditions, suggesting potential applications in anti-aging therapies.
-Development of an interactive web tool (link) to consult the results, facilitating their use in translational research.
+Development of an interactive web tool (https://gcoixc-laboratorio0de0bioinform0tic-inger.shinyapps.io/Senotherapeutics_Shiny/) to consult the results, facilitating their use in translational research.
 
 ![Graphical_Abstract_Pic](https://github.com/user-attachments/assets/36f12af2-53e0-408b-9a58-db1c5d66df86)
