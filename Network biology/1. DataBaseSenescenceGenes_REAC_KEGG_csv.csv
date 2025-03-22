@@ -1,0 +1,256 @@
+Mi data KEGG,,,,,REACTOME,,,,KEGG_REACTOME
+Proteinas,Genes,Valida,OutPut,,Genes,Valida,OutPut,,Genes
+TGFB,TGFB1,Kegg,No esta en reactome,,ATM,Reactome,Kegg,,ATM
+TGFBR,TGFB2,Kegg,No esta en reactome,,TP53,Reactome,Kegg,,TP53
+SMAD,TGFB3,Kegg,No esta en reactome,,CDKN1B,Reactome,No esta en kegg,,CDKN1B
+FOXO1,TGFBR1,Kegg,No esta en reactome,,CDKN1A,Reactome,Kegg,,CDKN1A
+FOXO3,TGFBR2,Kegg,No esta en reactome,,CCNA2,Reactome,Kegg,,CCNA2
+p15,SMAD2,Kegg,No esta en reactome,,CCNA1,Reactome,Kegg,,CCNA1
+p21,CDKN2B,Kegg,Reactome,,CDK2,Reactome,Kegg,,CDK2
+RB,FOXO1,Kegg,No esta en reactome,,MRE11,Reactome,Kegg,,MRE11
+AKT,FOXO3,Kegg,No esta en reactome,,RAD50,Reactome,Kegg,,RAD50
+PI3K,CDKN1A,Kegg,Reactome,,NBN,Reactome,Kegg,,NBN
+CDK4,CDK4,Kegg,Reactome,,KAT5,Reactome,No esta en kegg,,KAT5
+CDK2,CDK6,Kegg,Reactome,,CCNE1,Reactome,Kegg,,CCNE1
+CDK6,CCND1,Kegg,No esta en reactome,,CCNE2,Reactome,Kegg,,CCNE2
+CycD,CDK2,Kegg,Reactome,,EP400,Reactome,No esta en kegg,,EP400
+CycE,CCNE1,Kegg,Reactome,,TINF2,Reactome,No esta en kegg,,TINF2
+CycA,CCNE2,Kegg,Reactome,,POT1,Reactome,No esta en kegg,,POT1
+TSC1,RB1,Kegg,Reactome,,TERF1,Reactome,No esta en kegg,,TERF1
+TSC2,RBL1,Kegg,No esta en reactome,,TERF2IP,Reactome,No esta en kegg,,TERF2IP
+PTEN,RBL2,Kegg,No esta en reactome,,ACD,Reactome,No esta en kegg,,ACD
+RHEB,PIK3CA,Kegg,No esta en reactome,,TERF2,Reactome,No esta en kegg,,TERF2
+HLAG,PIK3CB,Kegg,No esta en reactome,,H2BC14,Reactome,No esta en kegg,,H2BC14
+CD158,PIK3CD,Kegg,No esta en reactome,,H2BC1,Reactome,No esta en kegg,,H2BC1
+mTOR,HLAG,Kegg,No esta en reactome,,H2BC5,Reactome,No esta en kegg,,H2BC5
+p53,KIR2DL4,Kegg,No esta en reactome,,H2BC9,Reactome,No esta en kegg,,H2BC9
+SIRT1,AKT1,Kegg,No esta en reactome,,H2BC21,Reactome,No esta en kegg,,H2BC21
+ARF,AKT2,Kegg,No esta en reactome,,H2BC17,Reactome,No esta en kegg,,H2BC17
+CMyc,AKT3,Kegg,No esta en reactome,,H2BC12L,Reactome,No esta en kegg,,H2BC12L
+MDM2,TSC1,Kegg,No esta en reactome,,H2BC15,Reactome,No esta en kegg,,H2BC15
+Ras,TSC2,Kegg,No esta en reactome,,H2BC4,Reactome,No esta en kegg,,H2BC4
+NORE1A,RHEB,Kegg,No esta en reactome,,H2BC11,Reactome,No esta en kegg,,H2BC11
+PP1A,MTOR,Kegg,No esta en reactome,,H2BC3,Reactome,No esta en kegg,,H2BC3
+BTrCP,PTEN,Kegg,No esta en reactome,,H2BC12,Reactome,No esta en kegg,,H2BC12
+HIPK2,TP53,Kegg,Reactome,,H2BC13,Reactome,No esta en kegg,,H2BC13
+Raf,SIRT1,Kegg,No esta en reactome,,H2BC26,Reactome,No esta en kegg,,H2BC26
+MEK,MYC,Kegg,No esta en reactome,,H3-4,Reactome,No esta en kegg,,H3-4
+ERK,CDKN2A,Kegg,Reactome,,H2AB1,Reactome,No esta en kegg,,H2AB1
+p16,MDM2,Kegg,Reactome,,H2AZ2,Reactome,No esta en kegg,,H2AZ2
+p38,RRAS,Kegg,No esta en reactome,,H2AC7,Reactome,No esta en kegg,,H2AC7
+Ets1,RRAS2,Kegg,No esta en reactome,,H2AX,Reactome,No esta en kegg,,H2AX
+MKK3,RASSF5,Kegg,No esta en reactome,,H2AJ,Reactome,No esta en kegg,,H2AJ
+MKK6,PPP1CA,Kegg,No esta en reactome,,H2AC20,Reactome,No esta en kegg,,H2AC20
+ATM,PPP1CB,Kegg,No esta en reactome,,H2AC6,Reactome,No esta en kegg,,H2AC6
+CHK2,PPP1CC,Kegg,No esta en reactome,,H2AC4,Reactome,No esta en kegg,,H2AC4
+ATR,FBXW11,Kegg,No esta en reactome,,H2AC18,Reactome,No esta en kegg,,H2AC18
+CHK1,BTRC,Kegg,No esta en reactome,,H2AC14,Reactome,No esta en kegg,,H2AC14
+CDC25A,HIPK1,Kegg,No esta en reactome,,H4C1,Reactome,No esta en kegg,,H4C1
+GADD45,HIPK2,Kegg,No esta en reactome,,HIRA,Reactome,No esta en kegg,,HIRA
+CDK1,HIPK3,Kegg,No esta en reactome,,UBN1,Reactome,No esta en kegg,,UBN1
+CycB,HIPK4,Kegg,No esta en reactome,,CABIN1,Reactome,No esta en kegg,,CABIN1
+p62,RAF1,Kegg,No esta en reactome,,ASF1A,Reactome,No esta en kegg,,ASF1A
+GATA4,MAP2K1,Kegg,No esta en reactome,,HMGA1,Reactome,No esta en kegg,,HMGA1
+TRAF3IP2,MAP2K2,Kegg,No esta en reactome,,H1-4,Reactome,No esta en kegg,,H1-4
+IL1a,MAPK1,Kegg,Reactome,,H1-5,Reactome,No esta en kegg,,H1-5
+MRE11,MAPK3,Kegg,Reactome,,H1-2,Reactome,No esta en kegg,,H1-2
+RAD50,MAPK14,Kegg,Reactome,,H1-3,Reactome,No esta en kegg,,H1-3
+NBS1,ETS1,Kegg,Reactome,,H1-1,Reactome,No esta en kegg,,H1-1
+RAD9,MAP2K3,Kegg,Reactome,,H1-0,Reactome,No esta en kegg,,H1-0
+RAD1,MAP2K6,Kegg,Reactome,,HMGA2,Reactome,No esta en kegg,,HMGA2
+HUS1,CCNA1,Kegg,Reactome,,LMNB1,Reactome,No esta en kegg,,LMNB1
+NFkB,CCNA2,Kegg,Reactome,,RB1,Reactome,Kegg,,RB1
+4EBP1,ATM,Kegg,Reactome,,ETS2,Reactome,No esta en kegg,,ETS2
+MK2,MRE11,Kegg,Reactome,,ID1,Reactome,No esta en kegg,,ID1
+ZFP36L1,NBN,Kegg,Reactome,,CDKN2A,Reactome,Kegg,,CDKN2A
+IL6,RAD50,Kegg,Reactome,,ETS1,Reactome,Kegg,,ETS1
+IL8,CHEK2,Kegg,No esta en reactome,,E2F2,Reactome,Kegg,,E2F2
+PAI1,ATR,Kegg,No esta en reactome,,E2F1,Reactome,Kegg,,E2F1
+IGFBP3,CHEK1,Kegg,No esta en reactome,,E2F3,Reactome,Kegg,,E2F3
+Calpain,RAD9A,Kegg,No esta en reactome,,TFDP2,Reactome,No esta en kegg,,TFDP2
+E2F,RAD9B,Kegg,No esta en reactome,,TFDP1,Reactome,No esta en kegg,,TFDP1
+CaV1,RAD1,Kegg,No esta en reactome,,SP1,Reactome,No esta en kegg,,SP1
+TRPV4,HUS1,Kegg,No esta en reactome,,MAPK1,Reactome,Kegg,,MAPK1
+TRPM7,CDC25A,Kegg,No esta en reactome,,MAPK3,Reactome,Kegg,,MAPK3
+IP3R,GADD45A,Kegg,No esta en reactome,,ERF,Reactome,No esta en kegg,,ERF
+ANT,GADD45B,Kegg,No esta en reactome,,AGO1,Reactome,No esta en kegg,,AGO1
+CypD,GADD45G,Kegg,No esta en reactome,,AGO4,Reactome,No esta en kegg,,AGO4
+MCU,CDK1,Kegg,No esta en reactome,,AGO3,Reactome,No esta en kegg,,AGO3
+VDAC,CCNB1,Kegg,No esta en reactome,,TNRC6A,Reactome,No esta en kegg,,TNRC6A
+BMYB,CCNB2,Kegg,No esta en reactome,,TNRC6B,Reactome,No esta en kegg,,TNRC6B
+MuvB,CCNB3,Kegg,No esta en reactome,,TNRC6C,Reactome,No esta en kegg,,TNRC6C
+FOXM1,SQSTM1,Kegg,No esta en reactome,,MOV10,Reactome,No esta en kegg,,MOV10
+,GATA4,Kegg,No esta en reactome,,CDKN2A,Reactome,Kegg,,CDKN2A
+,TRAF3IP2,Kegg,No esta en reactome,,MDM2,Reactome,Kegg,,MDM2
+,IL1A,Kegg,Reactome,,MDM4,Reactome,No esta en kegg,,MDM4
+,NFKB1,Kegg,Reactome,,UBC,Reactome,No esta en kegg,,UBC
+,RELA,Kegg,Reactome,,UBB,Reactome,No esta en kegg,,UBB
+,EIF4EBP1,Kegg,No esta en reactome,,UBA52,Reactome,No esta en kegg,,UBA52
+,MAPKAPK2,Kegg,Reactome,,RPS27A,Reactome,No esta en kegg,,RPS27A
+,ZFP36L1,Kegg,No esta en reactome,,CDK6,Reactome,Kegg,,CDK6
+,ZFP36L2,Kegg,No esta en reactome,,CDK4,Reactome,Kegg,,CDK4
+,IL6,Kegg,Reactome,,CDKN2D,Reactome,No esta en kegg,,CDKN2D
+,CXCL8,Kegg,Reactome,,CDKN2B,Reactome,Kegg,,CDKN2B
+,IGFBP3,Kegg,No esta en reactome,,CDKN2C,Reactome,No esta en kegg,,CDKN2C
+,SERPINE1,Kegg,No esta en reactome,,CEBPB,Reactome,No esta en kegg,,CEBPB
+,CAPN1,Kegg,No esta en reactome,,FZR1,Reactome,No esta en kegg,,FZR1
+,CAPN2,Kegg,No esta en reactome,,ANAPC4,Reactome,No esta en kegg,,ANAPC4
+,E2F1,Kegg,Reactome,,CDC16,Reactome,No esta en kegg,,CDC16
+,E2F2,Kegg,Reactome,,CDC26,Reactome,No esta en kegg,,CDC26
+,E2F3,Kegg,Reactome,,ANAPC1,Reactome,No esta en kegg,,ANAPC1
+,E2F4,Kegg,No esta en reactome,,ANAPC5,Reactome,No esta en kegg,,ANAPC5
+,E2F5,Kegg,No esta en reactome,,UBE2E1,Reactome,No esta en kegg,,UBE2E1
+,CACNA1D,Kegg,No esta en reactome,,UBE2C,Reactome,No esta en kegg,,UBE2C
+,TRPV4,Kegg,No esta en reactome,,ANAPC11,Reactome,No esta en kegg,,ANAPC11
+,TRPM7,Kegg,No esta en reactome,,UBE2S,Reactome,No esta en kegg,,UBE2S
+,PPID,Kegg,No esta en reactome,,CDC23,Reactome,No esta en kegg,,CDC23
+,MCU,Kegg,No esta en reactome,,ANAPC16,Reactome,No esta en kegg,,ANAPC16
+,VDAC1,Kegg,No esta en reactome,,UBE2D1,Reactome,No esta en kegg,,UBE2D1
+,VDAC2,Kegg,No esta en reactome,,ANAPC15,Reactome,No esta en kegg,,ANAPC15
+,VDAC3,Kegg,No esta en reactome,,CDC27,Reactome,No esta en kegg,,CDC27
+,TPR1,Kegg,No esta en reactome,,ANAPC10,Reactome,No esta en kegg,,ANAPC10
+,TPR2,Kegg,No esta en reactome,,ANAPC7,Reactome,No esta en kegg,,ANAPC7
+,TPR3,Kegg,No esta en reactome,,ANAPC2,Reactome,No esta en kegg,,ANAPC2
+,SLC25A4,Kegg,No esta en reactome,,MAPK7,Reactome,No esta en kegg,,MAPK7
+,SLC25A5,Kegg,No esta en reactome,,RPS6KA2,Reactome,No esta en kegg,,RPS6KA2
+,SLC25A6,Kegg,No esta en reactome,,RPS6KA1,Reactome,No esta en kegg,,RPS6KA1
+,SLC25A31,Kegg,No esta en reactome,,RPS6KA3,Reactome,No esta en kegg,,RPS6KA3
+,MYBL2,Kegg,No esta en reactome,,JUN,Reactome,No esta en kegg,,JUN
+,LIN54,Kegg,No esta en reactome,,FOS,Reactome,No esta en kegg,,FOS
+,LIN9,Kegg,No esta en reactome,,EHMT2,Reactome,No esta en kegg,,EHMT2
+,LIN37,Kegg,No esta en reactome,,EHMT1,Reactome,No esta en kegg,,EHMT1
+,LIN52,Kegg,No esta en reactome,,H3-3A,Reactome,No esta en kegg,,H3-3A
+,RBBP4,Kegg,Reactome,,H3C1,Reactome,No esta en kegg,,H3C1
+,FOXM1,Kegg,No esta en reactome,,H3C15,Reactome,No esta en kegg,,H3C15
+,,,,,IGFBP7,Reactome,No esta en kegg,,IGFBP7
+,,,,,IL6,Reactome,Kegg,,IL6
+,,,,,NFKB1,Reactome,Kegg,,NFKB1
+,,,,,RELA,Reactome,Kegg,,RELA
+,,,,,VENTX,Reactome,No esta en kegg,,VENTX
+,,,,,STAT3,Reactome,No esta en kegg,,STAT3
+,,,,,IL1A,Reactome,Kegg,,IL1A
+,,,,,CXCL8,Reactome,Kegg,,CXCL8
+,,,,,EED,Reactome,No esta en kegg,,EED
+,,,,,EZH2,Reactome,No esta en kegg,,EZH2
+,,,,,MAP2K3,Reactome,Kegg,,MAP2K3
+,,,,,MAP2K6,Reactome,Kegg,,MAP2K6
+,,,,,TNIK,Reactome,No esta en kegg,,TNIK
+,,,,,MAP4K4,Reactome,No esta en kegg,,MAP4K4
+,,,,,MINK1,Reactome,No esta en kegg,,MINK1
+,,,,,KDM6B,Reactome,No esta en kegg,,KDM6B
+,,,,,IFNB1,Reactome,No esta en kegg,,IFNB1
+,,,,,MAPK10,Reactome,No esta en kegg,,MAPK10
+,,,,,MAPK8,Reactome,No esta en kegg,,MAPK8
+,,,,,MAPK9,Reactome,No esta en kegg,,MAPK9
+,,,,,MAPK14,Reactome,Kegg,,MAPK14
+,,,,,MAPK11,Reactome,No esta en kegg,,MAPK11
+,,,,,MAPKAPK3,Reactome,No esta en kegg,,MAPKAPK3
+,,,,,MAPKAPK2,Reactome,Kegg,,MAPKAPK2
+,,,,,MAPKAPK5,Reactome,No esta en kegg,,MAPKAPK5
+,,,,,SUZ12,Reactome,No esta en kegg,,SUZ12
+,,,,,MAP2K7,Reactome,No esta en kegg,,MAP2K7
+,,,,,MAP2K4,Reactome,No esta en kegg,,MAP2K4
+,,,,,BMI1,Reactome,No esta en kegg,,BMI1
+,,,,,2 SCMH1,Reactome,No esta en kegg,,2 SCMH1
+,,,,,RNF2,Reactome,No esta en kegg,,RNF2
+,,,,,RING1,Reactome,No esta en kegg,,RING1
+,,,,,PHC1,Reactome,No esta en kegg,,PHC1
+,,,,,PHC3,Reactome,No esta en kegg,,PHC3
+,,,,,PHC2,Reactome,No esta en kegg,,PHC2
+,,,,,CBX2,Reactome,No esta en kegg,,CBX2
+,,,,,CBX8,Reactome,No esta en kegg,,CBX8
+,,,,,CBX4,Reactome,No esta en kegg,,CBX4
+,,,,,CBX6,Reactome,No esta en kegg,,CBX6
+,,,,,RBBP7,Reactome,No esta en kegg,,RBBP7
+,,,,,RBBP4,Reactome,Kegg,,RBBP4
+,,,,,MAP3K5,Reactome,No esta en kegg,,MAP3K5
+,,,,,TXN,Reactome,No esta en kegg,,TXN
+,,,,,,,,,TGFB1
+,,,,,,,,,TGFB2
+,,,,,,,,,TGFB3
+,,,,,,,,,TGFBR1
+,,,,,,,,,TGFBR2
+,,,,,,,,,SMAD2
+,,,,,,,,,FOXO1
+,,,,,,,,,FOXO3
+,,,,,,,,,CCND1
+,,,,,,,,,RBL1
+,,,,,,,,,RBL2
+,,,,,,,,,PIK3CA
+,,,,,,,,,PIK3CB
+,,,,,,,,,PIK3CD
+,,,,,,,,,HLAG
+,,,,,,,,,KIR2DL4
+,,,,,,,,,AKT1
+,,,,,,,,,AKT2
+,,,,,,,,,AKT3
+,,,,,,,,,TSC1
+,,,,,,,,,TSC2
+,,,,,,,,,RHEB
+,,,,,,,,,MTOR
+,,,,,,,,,PTEN
+,,,,,,,,,SIRT1
+,,,,,,,,,MYC
+,,,,,,,,,RRAS
+,,,,,,,,,RRAS2
+,,,,,,,,,RASSF5
+,,,,,,,,,PPP1CA
+,,,,,,,,,PPP1CB
+,,,,,,,,,PPP1CC
+,,,,,,,,,FBXW11
+,,,,,,,,,BTRC
+,,,,,,,,,HIPK1
+,,,,,,,,,HIPK2
+,,,,,,,,,HIPK3
+,,,,,,,,,HIPK4
+,,,,,,,,,RAF1
+,,,,,,,,,MAP2K1
+,,,,,,,,,MAP2K2
+,,,,,,,,,CHEK2
+,,,,,,,,,ATR
+,,,,,,,,,CHEK1
+,,,,,,,,,RAD9A
+,,,,,,,,,RAD9B
+,,,,,,,,,RAD1
+,,,,,,,,,HUS1
+,,,,,,,,,CDC25A
+,,,,,,,,,GADD45A
+,,,,,,,,,GADD45B
+,,,,,,,,,GADD45G
+,,,,,,,,,CDK1
+,,,,,,,,,CCNB1
+,,,,,,,,,CCNB2
+,,,,,,,,,CCNB3
+,,,,,,,,,SQSTM1
+,,,,,,,,,GATA4
+,,,,,,,,,TRAF3IP2
+,,,,,,,,,EIF4EBP1
+,,,,,,,,,ZFP36L1
+,,,,,,,,,ZFP36L2
+,,,,,,,,,IGFBP3
+,,,,,,,,,SERPINE1
+,,,,,,,,,CAPN1
+,,,,,,,,,CAPN2
+,,,,,,,,,E2F4
+,,,,,,,,,E2F5
+,,,,,,,,,CACNA1D
+,,,,,,,,,TRPV4
+,,,,,,,,,TRPM7
+,,,,,,,,,PPID
+,,,,,,,,,MCU
+,,,,,,,,,VDAC1
+,,,,,,,,,VDAC2
+,,,,,,,,,VDAC3
+,,,,,,,,,TPR1
+,,,,,,,,,TPR2
+,,,,,,,,,TPR3
+,,,,,,,,,SLC25A4
+,,,,,,,,,SLC25A5
+,,,,,,,,,SLC25A6
+,,,,,,,,,SLC25A31
+,,,,,,,,,MYBL2
+,,,,,,,,,LIN54
+,,,,,,,,,LIN9
+,,,,,,,,,LIN37
+,,,,,,,,,LIN52
+,,,,,,,,,FOXM1
