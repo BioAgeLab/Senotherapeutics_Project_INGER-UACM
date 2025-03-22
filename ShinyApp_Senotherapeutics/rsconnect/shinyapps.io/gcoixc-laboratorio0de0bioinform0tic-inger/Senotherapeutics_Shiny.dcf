@@ -1,0 +1,12 @@
+name: Senotherapeutics_Shiny
+title: Senotherapeutics_Shiny
+username: gcoixc-laboratorio0de0bioinform0tic-inger
+account: gcoixc-laboratorio0de0bioinform0tic-inger
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13949070
+bundleId: 9825228
+url: https://gcoixc-laboratorio0de0bioinform0tic-inger.shinyapps.io/Senotherapeutics_Shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
